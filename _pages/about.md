@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Yuhang Yao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
